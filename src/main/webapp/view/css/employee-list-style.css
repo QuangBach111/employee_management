@@ -1,0 +1,15 @@
+.option-field {
+	margin: 10px 0;
+	display: flex;
+	height: 40px;
+	justify-content: end;
+	gap: 10px;
+}
+
+.field .item{
+	height: 100%;
+	margin: 0;
+	/*padding: 0;*/
+	border: 1px solid  rgb(222, 226, 230);
+	border-radius: 5px;
+}

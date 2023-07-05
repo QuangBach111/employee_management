@@ -1,0 +1,22 @@
+.dashboard {
+	color: #007bff;
+	background-color: #f8f9fa;
+	height: 100vh;
+	border-right: #dee2e6 solid 1px;
+}
+.dashboard ul {
+	list-style: none;
+	/*padding: 0;*/
+
+}
+ul li {
+	padding: 10px 0px;
+}
+
+.dashboard>ul>li {
+	padding: 5px;
+	border-bottom: #dee2e6 solid 1px;
+}
+.btn-employee-menu {
+	color: #007bff;
+}

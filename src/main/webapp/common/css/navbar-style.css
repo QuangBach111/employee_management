@@ -1,0 +1,15 @@
+nav {
+	background-color: #f8f9fa;
+	height: 50px;
+	border-bottom: #dee2e6 solid 1px;
+}
+
+nav .nav-item-right {
+	color: #007bff;
+}
+
+nav .nav-item-right p {
+	line-height: 50px;
+	margin: 0 2rem;
+	color: #007bff;
+}
